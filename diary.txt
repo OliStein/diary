@@ -1,0 +1,56 @@
+
+
+18.09.2014
+
+From Bernd
+
+Meeting 17.09.2014
+
+Diamonds for IP4
+
+Date: Wednesday, 09/17/2014 09:10:07 AM
+
+Present
+	1.	Christian, Daniel, Oliver, Bernd
+Agenda:
+	1.	installation of diamonds
+Subjects:
+1.	DESY-CMS diamonds 
+1.	Wolfgang Lange offered some changes 
+1.	change of polarity
+2.	change of high voltage
+3.	test of CVDs
+4.	detectors to be sent to Zeuten in mid October
+2.	installation 
+1.	left IP4 beam 1
+3.	ROSI logging 
+1.	two or one LAN connections to be checked
+2.	ROSI GUI 
+1.	all settings configurable by the user (see manual)
+3.	ROSI server 
+1.	subscription to server for data distribution to clients (data are identical to logging data)
+4.	histogram 
+1.	vector length about 100 k values
+2.	each value 32 bit, could be converted to 3 significant digits with exponential
+3.	logging frequency determined by the user highest rate 1 Hz
+4.	one channel per unit
+5.	signal versus time 
+1.	4 channels per unit
+2.	per channels 250 k samples
+3.	each channels 8 bit
+4.	logging manually or event based (injection, dump)
+5.	logging location 
+1.	IP4 measurement (automatic transfer to logging) db
+2.	IP7 postmortem db
+Action:
+1.	Bernd 
+1.	Anne CMS
+2.	Christian 
+1.	position of detectors decum
+2.	transverse sketch
+
+To Do:
+
+- structure PHD Thesis
+- ROSY HowTo
+- JAS organisation
