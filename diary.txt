@@ -54,3 +54,28 @@ To Do:
 - structure PHD Thesis
 - ROSY HowTo
 - JAS organisation
+
+
+19.09.2014
+
+10:00 MPP
+
+- talk about BSRA BSRT 
+	- software issues: see slides
+		https://indico.cern.ch/event/340987/
+		questions: 
+		What is the resolution of the BSRA?
+		Measurement duration? 1Hz
+		Dump in 5 -10s
+
+- Meeting in lab at 14:00
+	- question for Christian
+		- Pers slide: 8 Intensities for whole beam? see mathematica nb:intensities_chris_pres_s8
+- Other questions:
+	Bernd: 
+	Diamond names for IP4
+	PM Triger/Dump/Injection Where do the triggers come from? 
+	How do the trigger work
+	what kind of shape do the triggers have?
+	
+
